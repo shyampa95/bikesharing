@@ -4,7 +4,7 @@
 https://public.tableau.com/app/profile/shyam.patel8801/viz/NewYorkCitiBankStory_16671203551890/Story1)
 
 <p align="center">
- <img width="400" height="300" src="https://github.com/shyampa95/bikesharing/Images/image%2012.jpg">
+ <img width="400" height="300" src="https://github.com/shyampa95/bikesharing/blob/main/Images/image%2012.jpg">
 </p
   
 In order to explore the sustainability of a bike-sharing business in Des Moines, the project uses data visualisation tools to offer an analysis of New York Citi Bike data to investors. I used Pandas to convert the "tripduration" column from an integer to a datetime datatype for this study. 
@@ -20,7 +20,7 @@ Using the converted datatype to create a set of visualizations to demonstrate th
    • Finally, you’ll add these new visualizations to the two you created in this module for your final presentation and analysis to pitch to investors.
  
 <p align="center">
-  <img width="400" height="300" src="https://github.com/shyampa95/bikesharing/Images/image%209.png">
+  <img width="400" height="300" src="https://github.com/shyampa95/bikesharing/blob/main/Images/image%209.png">
 </p>
  
  
@@ -31,14 +31,14 @@ Using the converted datatype to create a set of visualizations to demonstrate th
       Using Python and Pandas functions, the "tripduration" column was converted from an integer to a datetime datatype to get the time in hours, minutes, and seconds                   (00:00:00).
   
 <p align="center">
-<img width="600" height="300" src="https://github.com/shyampa95/bikesharing/Images/Image%201.png">
+<img width="600" height="300" src="https://github.com/shyampa95/bikesharing/blob/main/Images/Image%201.png">
 </p>
 
 
   2.	Length of time that bikes are checked out for all riders
 
 <p align="center">
-<img width="600" height="400" src="https://github.com/shyampa95/bikesharing/Images/image%202.png.Length%20of%20time%20that%20bikes%20are%20checked%20out%20for%20all%20riders.png">
+<img width="600" height="400" src="https://github.com/shyampa95/bikesharing/blob/main/Images/image%202.png.Length%20of%20time%20that%20bikes%20are%20checked%20out%20for%20all%20riders.png">
 
   3.	Create the Checkout Times for Users   
      •Bikes are checked out for ~ 4 to 6 hours.
@@ -46,7 +46,7 @@ Using the converted datatype to create a set of visualizations to demonstrate th
 
 </p>
 <p align="center">
-<img width="800" height="400" src="https://github.com/shyampa95/bikesharing/Images/image%203.png">
+<img width="800" height="400" src="https://github.com/shyampa95/bikesharing/blob/main/Images/image%203.png">
 </p>
 
 
@@ -54,14 +54,14 @@ Using the converted datatype to create a set of visualizations to demonstrate th
       •	Male users take approximately 3 times more rides than the female users.
 
 <p align="center">
-<img width="800" height="400" src="https://github.com/shyampa95/bikesharing/Images/image%204.png">
+<img width="800" height="400" src="https://github.com/shyampa95/bikesharing/blob/main/Images/image%204.png">
 </p>
 
 
 5.	Trips by Weekday for Each Hour
 
 <p align="center">
-<img width="400" height="400" src="https://github.com/shyampa95/bikesharing/Images/image%205.png">
+<img width="400" height="400" src="https://github.com/shyampa95/bikesharing/blob/main/Images/image%205.png">
 </p>
 
 
@@ -74,14 +74,14 @@ Using the converted datatype to create a set of visualizations to demonstrate th
     •	Those rides are mostly taken by male users.
 
 <p align="center">
-<img width="800" height="500" src="https://github.com/shyampa95/bikesharing/Images/image%206.png">
+<img width="800" height="500" src="https://github.com/shyampa95/bikesharing/blob/main/Images/image%206.png">
 </p>
 
 
 7.	User Trips by Gender by Weekday 
 
 <p align="center">
-<img width="400" height="400" src="https://github.com/shyampa95/bikesharing/Images/image%207.png">
+<img width="400" height="400" src="https://github.com/shyampa95/bikesharing/blob/main/Images/image%207.png">
 </p>
 
 
@@ -96,7 +96,7 @@ Using the converted datatype to create a set of visualizations to demonstrate th
    •	Top ride starting locations are in the most touristic and busy areas, as we see here in Manhattan.
 
 <p align="center">
-<img width="800" height="400" src="https://github.com/shyampa95/bikesharing/Images/image%208.png.jpg">
+<img width="800" height="400" src="https://github.com/shyampa95/bikesharing/blob/main/Images/image%208.png.jpg">
 </p>
 
    9.	 August Peak Hours
@@ -107,14 +107,14 @@ Using the converted datatype to create a set of visualizations to demonstrate th
 
 
 <p align="center">
-<img width="800" height="400" src="https://github.com/shyampa95/bikesharing/Images/image%2011.png">
+<img width="800" height="400" src="https://github.com/shyampa95/bikesharing/blob/main/Images/image%2011.png">
 </p>
 
 
 10.	Bike Utilization
 
 <p align="center">
-<img width="400" height="400" src="https://github.com/shyampa95/bikesharing/Images/image%2010.png">
+<img width="400" height="400" src="https://github.com/shyampa95/bikesharing/blob/main/Images/image%2010.png">
 </p>
 
 
